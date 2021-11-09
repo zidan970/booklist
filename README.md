@@ -1,1 +1,1 @@
-# booklist
+# booklist-jquery
